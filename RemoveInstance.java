@@ -1,4 +1,4 @@
-
+import java.lang.*;
 public class RemoveInstance {
 
 	public static void main(String args[]) {
